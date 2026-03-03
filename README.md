@@ -34,7 +34,7 @@ I love turning ideas into reliable backend systems, building RESTful APIs, and o
 ### 🌍 Find me around the web
 - 📬 Telegram: [@Aidana](https://t.me/Aidana)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🌱 Portfolio: [yourwebsite.com](https://# 👋 Hi there! I'm Aibatbek uulu Amandyk
+- 🌱 Portfolio: [yourwebsite.com](https://# 👋 Hi there! I'm Mirbekova Aidana!
 
 💻 **Python Backend Developer | API Engineer | Automation Enthusiast**
 
@@ -68,7 +68,7 @@ I love turning ideas into reliable backend systems, building RESTful APIs, and o
 ---
 
 ### 🌍 Find me around the web
-- 📬 Telegram: [@yourusername](https://t.me/yourusername)
+- 📬 Telegram: 
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - 🌱 Portfolio: [aidanamirbekova3@gmail.com](https://aidanamirbekova3@gmail.com)
 
