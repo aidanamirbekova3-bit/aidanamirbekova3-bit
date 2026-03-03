@@ -69,7 +69,6 @@ I love turning ideas into reliable backend systems, building RESTful APIs, and o
 
 ### 🌍 Find me around the web
 - 📬 Telegram: 
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - 🌱 Portfolio: [aidanamirbekova3@gmail.com](https://aidanamirbekova3@gmail.com)
 
 ---
